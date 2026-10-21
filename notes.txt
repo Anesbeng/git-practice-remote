@@ -2,6 +2,3 @@
 "second line" 
 "third line" 
 "edited on github"
-"direct edit" 
-"work in progress" 
-"mistake" 
